@@ -30,3 +30,4 @@ total_length=road_proj.length.sum()
 
 total_length_km=total_length/1000
 print("Total length of all road segments(m):",total_length_km)
+print("Total length of all road segments(m):",total_length_km)
